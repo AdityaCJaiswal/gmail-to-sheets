@@ -19,7 +19,7 @@ In this implementation, the system is configured to track **"LeetCode Weekly Dig
 
 ## 🏗 Architecture
 ![Architecture Diagram](proof/architecture_diagram.png)
-*(Note: Please find the hand-drawn architecture diagram in the `proof/` folder as requested.)*
+*(Note: Please find the architecture diagram in the `proof/` folder as requested.)*
 
 **Flow:**
 1.  **Auth:** User authenticates via OAuth 2.0 (Google Cloud).
